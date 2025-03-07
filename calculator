@@ -8,6 +8,15 @@ class Program
     {
         // Declare two numbers
         double num1 = 10;
+ Division
+        double num2 = 2;
+
+        // Perform division
+        double result = num1 / num2;
+
+        // Output the result
+        Console.WriteLine("The result of dividing " + num1 + " by " + num2 + " is: " + result);
+
         double num2 = 5;
 
         // Perform multiplication
@@ -15,5 +24,6 @@ class Program
 
         // Output the result
         Console.WriteLine("The result of multiplying " + num1 + " and " + num2 + " is: " + result);
+        Multiplication
     }
 }
